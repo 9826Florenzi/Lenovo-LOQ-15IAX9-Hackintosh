@@ -1,0 +1,21 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# OpenCore debug logs
+opencore-*.txt
+
+# Editor & OS temporary files
+*.bak
+*.tmp
+*~
+Thumbs.db
+desktop.ini
+
+# Personal SMBIOS backups / Private configs
+config.backup.plist
+config.mine.plist
